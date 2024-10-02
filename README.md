@@ -1,4 +1,4 @@
-# Óla, meu nome é Julio
+# Olá, meu nome é Julio
 Bem vindo, tenho 19 anos e trabalho como meio oficial de mecatronica na Bosch Brasil...
 
 ## Sobre mim
